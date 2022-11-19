@@ -1,5 +1,5 @@
 import test from 'ava';
 
 test('foo', t => {
-	t.fail();
+	t.is(2 + 2, 4);
 });
