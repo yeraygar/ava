@@ -15,3 +15,5 @@ test('sum of 2 numbers', t => {
   t.is(sum(1, 2), 3);
 })
 
+//TODO test multiplicacion
+//TODO test restar
